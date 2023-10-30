@@ -13,9 +13,6 @@
 * 쿠팡 파트너스 및 업체의 AR 광고를 통해 보다 뛰어난 마케팅 사업을 진행할 수 있습니다. 
 <br>
 <br>
-
-# 
-
 # 🔎사용 기술
 <br>
 <div align=center> 
@@ -57,15 +54,15 @@
 
 
 # 주요 기능
-## 1. 소셜 로그인
 
+## 1. 소셜 로그인
   구글 및 카카오 소셜 로그인
   <br>
 
   | **구글 로그인** | **프로필 이미지 적용** | 
   |---|---|
   | "<img src="https://github.com/rohhyungwoo/ARAD_Public/assets/67363759/4164ade1-38fb-4aca-8997-6294ed17f9ef" width="200" height="400"/> | <img src="https://github.com/rohhyungwoo/ARAD_Public/assets/67363759/e1746836-56c1-41ff-a789-1bad9d874199" width="200" height="400"/> | 
-
+<br>
 
 ## 2. AR 컨텐츠 실행(UaaL 사용)
  ### Uaal(Unity as a Library) :  Unity로 개발된 AR 앱을 AOS 네이티브 앱에 적용
@@ -94,8 +91,7 @@
  안드로이드에 Unity 프로그램을 라이브러리로 활용 했습니다<br>
  
 
-<br><br>
-
+<br>
 
 ## 3. 데이터 서버 업로드
 
@@ -115,7 +111,7 @@
 안내 메시지를 받는 방법은 Push Token을 구글 파이어베이스를 통해 유저의 고유 푸시 token을 발급받고 Post Man과
 자사 서버를 사용해 해당 기능을 구현 했습니다
 
-
+<br><br>
 
 
 # 결과 화면
@@ -129,6 +125,7 @@
 | **AR View1** | **AR View2** | **AR View3** | **POI Upload** | 
 |---|---|---|---|
 | <img src="https://github.com/rohhyungwoo/ARAD_Public/assets/67363759/a97ac82a-33b3-4a2d-bfd9-8de9eb927b8f" width="180" height="400"/> | <img src="https://github.com/rohhyungwoo/ARAD_Public/assets/67363759/4b68bb9d-e610-46de-93c4-90fadd0f861a" width="180" height="400"/> | <img src="https://github.com/rohhyungwoo/ARAD_Public/assets/67363759/4e5bb0e1-3b92-45e1-91b6-0205fde399d0" width="180" height="400"/> |<img src="https://github.com/rohhyungwoo/ARAD_Public/assets/67363759/585f06da-b59c-43d3-b180-4ac7c00e5ffc" width="180" height="400"/> 
+
 
 <br>
 
