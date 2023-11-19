@@ -31,7 +31,8 @@
 
 # 🎁서비스 아키텍쳐
 
-![Alt text](image.png)
+![serviceArchitecture](https://github.com/rohhyungwoo/ARAD_Public/assets/28985207/8d2b1967-3d1e-4f78-b70a-31d8cfe6c293)
+
 <br>
 
 # 🖥서버 통신
@@ -107,7 +108,7 @@
 1. 사용자가 업로드한 이미지를 통해 관리자가 반려 or 승인 처리<br>
 2. Client에게 알림 전송
 <br><br>
-![Alt text](image-3.png)
+![image-3](https://github.com/rohhyungwoo/ARAD_Public/assets/28985207/80c8ba2a-06aa-48fa-bac3-e3c164aece18)
 <br><br>
 안내 메시지를 받는 방법은 Push Token을 구글 파이어베이스를 통해 유저의 고유 푸시 token을 발급받고 Post Man과
 자사 서버를 사용해 해당 기능을 구현 했습니다
